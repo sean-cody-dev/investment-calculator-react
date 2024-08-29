@@ -64,10 +64,6 @@ body {
   font-size: 1rem;
 }
 
-#user-input input:nth-of-type(1) {
-  margin-bottom: 1rem;
-}
-
 #result {
   max-width: 50rem;
   margin: 2rem auto;
