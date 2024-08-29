@@ -1,9 +1,8 @@
 import { useState } from "react";
 import { calculateInvestmentResults, formatter } from "./util/investment";
 
-import Row from "./Row";
-import UserInput from "./UserInput";
-import Results from "./Results";
+import UserInput from "./components/UserInput";
+import Results from "./components/Results";
 
 function App() {
 

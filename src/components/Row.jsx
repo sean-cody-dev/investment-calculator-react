@@ -1,4 +1,4 @@
-import { formatter } from "./util/investment";
+import { formatter } from "../util/investment";
 
 export default function Row({rowData, totalInterest, investedCapital}) {
 
