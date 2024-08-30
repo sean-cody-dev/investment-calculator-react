@@ -28,7 +28,7 @@ function handleChange(inputIdentifier, newValue) {
   return (
     <>
       <div id="header">
-        <img src="public/investment-calculator-logo.png" alt="" />
+        <img src="./investment-calculator-logo.png" alt="" />
         <h1>React Investment Calculator</h1>
       </div>
       <UserInput onChange={handleChange} userInput={userInput}/>
